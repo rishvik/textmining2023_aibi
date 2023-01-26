@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="nhs-uk_20170704T031554.txt">
+    <annotation>
+        <mention id="EHOST_Instance_580" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="33" end="39" />
+        <span start="43" end="121" />
+        <spannedText>Why is ... the chickenpox vaccination part of the routine childhood immunisation schedule</spannedText>
+        <creationDate>Sat Jan 14 18:51:21 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_580">
+        <mentionClass id="Scope">Why is ... the chickenpox vaccination part of the routine childhood immunisation schedule</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_581" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="39" end="42" />
+        <spannedText>n't</spannedText>
+        <creationDate>Sat Jan 14 18:46:33 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_581">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_582" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="269" end="299" />
+        <span start="303" end="319" />
+        <spannedText>people in 'at-risk' groups can ... have the vaccine</spannedText>
+        <creationDate>Sat Jan 14 18:46:57 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_582">
+        <mentionClass id="Scope">people in 'at-risk' groups can ... have the vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_583" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="299" end="302" />
+        <spannedText>not</spannedText>
+        <creationDate>Sat Jan 14 18:47:12 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_583">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_584" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="480" end="505" />
+        <span start="510" end="557" />
+        <spannedText>Chickenpox vaccination is ... part of the NHS childhood vaccination programme</spannedText>
+        <creationDate>Sat Jan 14 18:47:28 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_584">
+        <mentionClass id="Scope">Chickenpox vaccination is ... part of the NHS childhood vaccination programme</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_585" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="506" end="509" />
+        <spannedText>not</spannedText>
+        <creationDate>Sat Jan 14 18:47:59 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_585">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_586" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="847" end="853" />
+        <span start="857" end="935" />
+        <spannedText>Why is ... the chickenpox vaccination part of the routine childhood immunisation schedule</spannedText>
+        <creationDate>Sat Jan 14 18:54:52 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_586">
+        <mentionClass id="Scope">Why is ... the chickenpox vaccination part of the routine childhood immunisation schedule</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_587" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="853" end="856" />
+        <spannedText>n't</spannedText>
+        <creationDate>Sat Jan 14 18:55:02 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_587">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_588" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="3832" end="3834" />
+        <span start="3838" end="3843" />
+        <spannedText>Do ... worry</spannedText>
+        <creationDate>Sat Jan 14 18:55:23 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_588">
+        <mentionClass id="Scope">Do ... worry</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_589" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="3834" end="3837" />
+        <spannedText>n't</spannedText>
+        <creationDate>Sat Jan 14 18:55:51 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_589">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_590" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="1110" end="1112" />
+        <spannedText>un</spannedText>
+        <creationDate>Sat Jan 14 18:56:13 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_590">
+        <mentionClass id="NegCue">un</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="1112" end="1120" />
+        <span start="1073" end="1109" />
+        <spannedText>While chickenpox during childhood is ... pleasant</spannedText>
+        <creationDate>Sat Jan 14 18:56:27 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591">
+        <mentionClass id="Scope">While chickenpox during childhood is ... pleasant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_592" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="1333" end="1345" />
+        <span start="1350" end="1378" />
+        <spannedText>people would ... catch chickenpox as children</spannedText>
+        <creationDate>Sat Jan 14 19:03:08 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_592">
+        <mentionClass id="Scope">people would ... catch chickenpox as children</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_593" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="1346" end="1349" />
+        <spannedText>not</spannedText>
+        <creationDate>Sat Jan 14 19:03:22 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_593">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="1387" end="1406" />
+        <span start="1417" end="1486" />
+        <spannedText>the infection would ... circulate in areas where the majority of children had been vaccinated</spannedText>
+        <creationDate>Sat Jan 14 19:05:12 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594">
+        <mentionClass id="Scope">the infection would ... circulate in areas where the majority of children had been vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="1407" end="1416" />
+        <spannedText>no longer</spannedText>
+        <creationDate>Sat Jan 14 19:05:30 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_595">
+        <mentionClass id="NegCue">no longer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_596" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="1508" end="1518" />
+        <spannedText>vaccinated</spannedText>
+        <creationDate>Sat Jan 14 19:05:48 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_596">
+        <mentionClass id="Scope">vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_597" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="1506" end="1508" />
+        <spannedText>un</spannedText>
+        <creationDate>Sat Jan 14 19:05:58 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_597">
+        <mentionClass id="NegCue">un</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_598" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="2279" end="2286" />
+        <span start="2290" end="2310" />
+        <spannedText>who are ... immune to chickenpox</spannedText>
+        <creationDate>Sat Jan 14 19:07:06 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_598">
+        <mentionClass id="Scope">who are ... immune to chickenpox</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_599" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="2286" end="2289" />
+        <spannedText>n't</spannedText>
+        <creationDate>Sat Jan 14 19:07:31 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_599">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_600" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="2726" end="2733" />
+        <span start="2737" end="2779" />
+        <spannedText>You can ... get the chickenpox vaccine free on the NHS</spannedText>
+        <creationDate>Sat Jan 14 19:10:14 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_600">
+        <mentionClass id="Scope">You can ... get the chickenpox vaccine free on the NHS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_601" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="2733" end="2736" />
+        <spannedText>not</spannedText>
+        <creationDate>Sat Jan 14 19:10:41 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_601">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_602" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="2845" end="2854" />
+        <span start="2858" end="2887" />
+        <spannedText>there are ... other associated health risks</spannedText>
+        <creationDate>Sat Jan 14 19:11:26 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_602">
+        <mentionClass id="Scope">there are ... other associated health risks</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_603" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="2855" end="2857" />
+        <spannedText>no</spannedText>
+        <creationDate>Sat Jan 14 19:11:00 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_603">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_604" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="3944" end="3946" />
+        <spannedText>no</spannedText>
+        <creationDate>Sat Jan 14 19:13:45 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_604">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_605" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="3947" end="3986" />
+        <span start="3938" end="3943" />
+        <span start="3845" end="3882" />
+        <spannedText>A study in the US of nearly 700 women ... found ... cases of babies affected by the vaccine</spannedText>
+        <creationDate>Sat Jan 14 19:14:47 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_605">
+        <mentionClass id="Scope">A study in the US of nearly 700 women ... found ... cases of babies affected by the vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_606" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="37" end="42" />
+        <spannedText>isn't</spannedText>
+        <creationDate>Sun Jan 15 14:44:41 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_606">
+        <mentionClass id="NegCue">isn't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_607" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="208" end="211" />
+        <spannedText>not</spannedText>
+        <creationDate>Sun Jan 15 14:44:48 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_607">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_608" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="296" end="302" />
+        <spannedText>cannot</spannedText>
+        <creationDate>Sun Jan 15 14:44:58 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_608">
+        <mentionClass id="NegCue">cannot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_609" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="506" end="509" />
+        <spannedText>not</spannedText>
+        <creationDate>Sun Jan 15 14:45:05 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_609">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_610" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="1407" end="1416" />
+        <spannedText>no longer</spannedText>
+        <creationDate>Sun Jan 15 14:45:39 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_610">
+        <mentionClass id="NegCue">no longer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_611" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="1346" end="1349" />
+        <spannedText>not</spannedText>
+        <creationDate>Sun Jan 15 14:45:44 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_611">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_612" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="2283" end="2289" />
+        <spannedText>aren't</spannedText>
+        <creationDate>Sun Jan 15 14:46:14 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_612">
+        <mentionClass id="NegCue">aren't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_613" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="2855" end="2857" />
+        <spannedText>no</spannedText>
+        <creationDate>Sun Jan 15 14:46:39 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_613">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_614" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="3180" end="3187" />
+        <spannedText>nothing</spannedText>
+        <creationDate>Sun Jan 15 14:46:51 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_614">
+        <mentionClass id="NegCue">nothing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_615" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="3832" end="3837" />
+        <spannedText>Don't</spannedText>
+        <creationDate>Sun Jan 15 14:47:21 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_615">
+        <mentionClass id="NegCue">Don't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_616" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="1506" end="1518" />
+        <spannedText>unvaccinated</spannedText>
+        <creationDate>Sun Jan 15 15:11:04 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_616">
+        <mentionClass id="NegCue">unvaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_617" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="39" end="42" />
+        <spannedText>n't</spannedText>
+        <creationDate>Wed Jan 11 19:45:58 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_617">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_618" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="208" end="211" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:46:06 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_618">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_619" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="299" end="302" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:46:13 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_619">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_620" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="508" end="511" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:46:23 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_620">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_621" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="858" end="861" />
+        <spannedText>n't</spannedText>
+        <creationDate>Wed Jan 11 19:46:37 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_621">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_622" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="1117" end="1119" />
+        <spannedText>un</spannedText>
+        <creationDate>Wed Jan 11 19:46:51 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_622">
+        <mentionClass id="NegCue">un</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_623" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="1358" end="1361" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:47:01 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_623">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_624" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="1420" end="1429" />
+        <spannedText>no longer</spannedText>
+        <creationDate>Wed Jan 11 19:47:12 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_624">
+        <mentionClass id="NegCue">no longer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_625" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="1519" end="1521" />
+        <span start="2312" end="2315" />
+        <spannedText>un ... n't</spannedText>
+        <creationDate>Wed Jan 11 19:47:18 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_625">
+        <mentionClass id="NegCue">un ... n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_626" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="2770" end="2773" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:48:16 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_626">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_627" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="2892" end="2894" />
+        <spannedText>no</spannedText>
+        <creationDate>Wed Jan 11 19:48:21 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_627">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_628" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="3218" end="3225" />
+        <spannedText>nothing</spannedText>
+        <creationDate>Wed Jan 11 19:48:47 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_628">
+        <mentionClass id="NegCue">nothing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_629" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="3877" end="3880" />
+        <spannedText>n't</spannedText>
+        <creationDate>Wed Jan 11 19:49:20 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_629">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_630" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="3987" end="3989" />
+        <spannedText>no</spannedText>
+        <creationDate>Wed Jan 11 19:49:32 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_630">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_631" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="204" end="265" />
+        <spannedText>I'm not sure if I had chickenpox as a child. How can I check?</spannedText>
+        <creationDate>Sat Jan 14 19:40:08 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_631">
+        <mentionClass id="NegCue">I'm not sure if I had chickenpox as a child. How can I check?</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_632" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="266" end="387" />
+        <spannedText>If people in 'at-risk' groups cannot have the vaccine, what treatments are available if theyÂ are exposed toÂ chickenpox?</spannedText>
+        <creationDate>Sat Jan 14 19:40:21 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_632">
+        <mentionClass id="NegCue">If people in 'at-risk' groups cannot have the vaccine, what treatments are available if theyÂ are exposed toÂ chickenpox?</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_633" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="852" end="941" />
+        <spannedText>Why isn't the chickenpox vaccination part of the routine childhood immunisation schedule?</spannedText>
+        <creationDate>Sat Jan 14 19:40:35 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_633">
+        <mentionClass id="NegCue">Why isn't the chickenpox vaccination part of the routine childhood immunisation schedule?</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_634" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="2763" end="2925" />
+        <spannedText>You cannot get the chickenpox vaccine free on the NHS if you simply want to prevent your child catching chickenpox and there are no other associated health risks.</spannedText>
+        <creationDate>Sat Jan 14 19:40:46 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_634">
+        <mentionClass id="NegCue">You cannot get the chickenpox vaccine free on the NHS if you simply want to prevent your child catching chickenpox and there are no other associated health risks.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_635" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="2276" end="2410" />
+        <spannedText>Â such as for healthy people who aren't immune to chickenpox and are in close contact with someone who hasÂ a weakened immune system.</spannedText>
+        <creationDate>Sat Jan 14 19:41:08 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_635">
+        <mentionClass id="NegCue">Â such as for healthy people who aren't immune to chickenpox and are in close contact with someone who hasÂ a weakened immune system.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

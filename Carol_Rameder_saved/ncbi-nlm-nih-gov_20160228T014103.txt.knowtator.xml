@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="ncbi-nlm-nih-gov_20160228T014103.txt">
+    <annotation>
+        <mention id="EHOST_Instance_551" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="838" end="849" />
+        <span start="854" end="912" />
+        <spannedText>Virus could ... be isolated from the saliva of CSF of the 2 surviving dogs</spannedText>
+        <creationDate>Sun Jan 15 13:05:38 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_551">
+        <mentionClass id="Scope">Virus could ... be isolated from the saliva of CSF of the 2 surviving dogs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_552" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="850" end="853" />
+        <spannedText>not</spannedText>
+        <creationDate>Sun Jan 15 13:05:48 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_552">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_553" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="850" end="853" />
+        <spannedText>not</spannedText>
+        <creationDate>Sun Jan 15 14:36:31 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_553">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_554" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="1112" end="1119" />
+        <spannedText>failure</spannedText>
+        <creationDate>Sun Jan 15 15:07:45 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_554">
+        <mentionClass id="NegCue">failure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_555" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="850" end="853" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 16:38:42 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_555">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_556" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="0" end="172" />
+        <spannedText>Ascending paralysis developed in 3 dogs, 12 to 14 days following inoculation with a modified live virus, chicken embryo origin, low egg passage, Flury strain rabies vaccine</spannedText>
+        <creationDate>Sat Jan 14 18:53:35 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_556">
+        <mentionClass id="NegCue">Ascending paralysis developed in 3 dogs, 12 to 14 days following inoculation with a modified live virus, chicken embryo origin, low egg passage, Flury strain rabies vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_557" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="174" end="331" />
+        <spannedText>The paralysis began in the inoculated limb but rapidly involved both hindlimbs. Partial paresis of the forelimbs was seen several days following the hindlimb</spannedText>
+        <creationDate>Sat Jan 14 18:54:46 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_557">
+        <mentionClass id="NegCue">The paralysis began in the inoculated limb but rapidly involved both hindlimbs. Partial paresis of the forelimbs was seen several days following the hindlimb</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_558" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="837" end="912" />
+        <spannedText>Virus could not be isolated from the saliva of CSF of the 2 surviving dogs</spannedText>
+        <creationDate>Sat Jan 14 18:56:08 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_558">
+        <mentionClass id="NegCue">Virus could not be isolated from the saliva of CSF of the 2 surviving dogs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_559" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="504" end="530" />
+        <spannedText>3rd dog died within 5 days</spannedText>
+        <creationDate>Sat Jan 14 18:56:15 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_559">
+        <mentionClass id="NegCue">3rd dog died within 5 days</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+
