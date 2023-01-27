@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="nhs-uk_20170704T031554.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2099" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="37" end="42" />
+        <spannedText>isn't</spannedText>
+        <creationDate>Fri Jan 27 18:59:30 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2099">
+        <mentionClass id="NegCue">isn't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2100" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="208" end="211" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 18:59:35 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2100">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2101" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="296" end="302" />
+        <spannedText>cannot</spannedText>
+        <creationDate>Fri Jan 27 18:59:40 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2101">
+        <mentionClass id="NegCue">cannot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2102" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="508" end="511" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 18:59:47 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2102">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2103" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="856" end="861" />
+        <spannedText>isn't</spannedText>
+        <creationDate>Fri Jan 27 18:59:57 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2103">
+        <mentionClass id="NegCue">isn't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2104" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="1117" end="1127" />
+        <spannedText>unpleasant</spannedText>
+        <creationDate>Fri Jan 27 19:00:06 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2104">
+        <mentionClass id="NegCue">unpleasant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2105" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="1358" end="1361" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 19:00:17 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2105">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2106" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="1420" end="1422" />
+        <spannedText>no</spannedText>
+        <creationDate>Fri Jan 27 19:00:19 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2106">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2107" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="1519" end="1531" />
+        <spannedText>unvaccinated</spannedText>
+        <creationDate>Fri Jan 27 19:00:25 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2107">
+        <mentionClass id="NegCue">unvaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2108" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="2309" end="2315" />
+        <spannedText>aren't</spannedText>
+        <creationDate>Fri Jan 27 19:00:48 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2108">
+        <mentionClass id="NegCue">aren't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2109" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="2767" end="2773" />
+        <spannedText>cannot</spannedText>
+        <creationDate>Fri Jan 27 19:01:01 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2109">
+        <mentionClass id="NegCue">cannot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2110" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="2892" end="2894" />
+        <spannedText>no</spannedText>
+        <creationDate>Fri Jan 27 19:01:05 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2110">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2111" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="3218" end="3225" />
+        <spannedText>nothing</spannedText>
+        <creationDate>Fri Jan 27 19:01:16 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2111">
+        <mentionClass id="NegCue">nothing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2112" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="3987" end="3989" />
+        <spannedText>no</spannedText>
+        <creationDate>Fri Jan 27 19:01:41 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2112">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

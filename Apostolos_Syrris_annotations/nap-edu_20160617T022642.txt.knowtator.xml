@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="nap-edu_20160617T022642.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1983" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="1020" end="1026" />
+        <spannedText>cannot</spannedText>
+        <creationDate>Fri Jan 27 16:25:01 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1983">
+        <mentionClass id="NegCue">cannot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1984" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="3983" end="3986" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:17:03 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1984">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1985" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="4479" end="4487" />
+        <spannedText>disorder</spannedText>
+        <creationDate>Fri Jan 27 17:36:22 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1985">
+        <mentionClass id="NegCue">disorder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1986" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="6723" end="6734" />
+        <spannedText>unpublished</spannedText>
+        <creationDate>Fri Jan 27 17:38:15 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1986">
+        <mentionClass id="NegCue">unpublished</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1987" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="4864" end="4867" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:39:16 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1987">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1988" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="3459" end="3462" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:39:22 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1988">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1989" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="2430" end="2433" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:39:31 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1989">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1990" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="3039" end="3042" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:39:35 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1990">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1991" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="3252" end="3255" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:39:44 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1991">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1992" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="4313" end="4315" />
+        <spannedText>no</spannedText>
+        <creationDate>Fri Jan 27 17:39:58 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1992">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1993" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="7500" end="7503" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:40:10 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1993">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1994" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="7700" end="7703" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:40:34 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1994">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1995" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="7953" end="7956" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:40:45 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1995">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1996" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="8168" end="8179" />
+        <spannedText>unpublished</spannedText>
+        <creationDate>Fri Jan 27 17:40:56 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1996">
+        <mentionClass id="NegCue">unpublished</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1997" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="8741" end="8752" />
+        <spannedText>unpublished</spannedText>
+        <creationDate>Fri Jan 27 17:41:20 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1997">
+        <mentionClass id="NegCue">unpublished</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1998" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="8911" end="8914" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:41:30 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1998">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1999" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="9284" end="9295" />
+        <spannedText>inactivated</spannedText>
+        <creationDate>Fri Jan 27 17:41:45 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1999">
+        <mentionClass id="NegCue">inactivated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2000" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="9793" end="9799" />
+        <spannedText>cannot</spannedText>
+        <creationDate>Fri Jan 27 17:42:12 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2000">
+        <mentionClass id="NegCue">cannot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2001" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="9911" end="9914" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:42:18 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2001">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2002" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="9957" end="9968" />
+        <spannedText>unprotected</spannedText>
+        <creationDate>Fri Jan 27 17:42:21 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2002">
+        <mentionClass id="NegCue">unprotected</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+
