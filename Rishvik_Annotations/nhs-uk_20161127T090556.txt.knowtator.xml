@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="nhs-uk_20161127T090556.txt">
+    <annotation>
+        <mention id="EHOST_Instance_4710" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="100" end="105" />
+        <spannedText>isn't</spannedText>
+        <creationDate>Fri Jan 27 18:51:48 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4710">
+        <mentionClass id="NegCue">isn't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4711" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="5517" end="5520" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 18:54:55 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4711">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4712" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="5578" end="5581" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 18:54:58 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4712">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4713" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="7261" end="7267" />
+        <spannedText>aren't</spannedText>
+        <creationDate>Fri Jan 27 18:55:46 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4713">
+        <mentionClass id="NegCue">aren't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4714" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="7304" end="7310" />
+        <spannedText>unless</spannedText>
+        <creationDate>Fri Jan 27 18:55:49 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4714">
+        <mentionClass id="NegCue">unless</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4715" />
+        <annotator id="eHOST_2010">Rishvik</annotator>
+        <span start="100" end="105" />
+        <spannedText>isn't</spannedText>
+        <creationDate>Wed Feb 01 18:14:18 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4715">
+        <mentionClass id="NegCue">isn't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4716" />
+        <annotator id="eHOST_2010">Rishvik</annotator>
+        <span start="100" end="105" />
+        <spannedText>isn't</spannedText>
+        <creationDate>Wed Feb 01 18:22:47 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4716">
+        <mentionClass id="NegCue">isn't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4717" />
+        <annotator id="eHOST_2010">Rishvik</annotator>
+        <span start="5517" end="5520" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Feb 01 18:22:50 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4717">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4718" />
+        <annotator id="eHOST_2010">Rishvik</annotator>
+        <span start="5578" end="5581" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Feb 01 18:22:52 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4718">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4719" />
+        <annotator id="eHOST_2010">Rishvik</annotator>
+        <span start="7304" end="7310" />
+        <spannedText>unless</spannedText>
+        <creationDate>Wed Feb 01 18:22:53 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4719">
+        <mentionClass id="NegCue">unless</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4720" />
+        <annotator id="eHOST_2010">Rishvik</annotator>
+        <span start="7261" end="7267" />
+        <spannedText>aren't</spannedText>
+        <creationDate>Wed Feb 01 18:22:55 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4720">
+        <mentionClass id="NegCue">aren't</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

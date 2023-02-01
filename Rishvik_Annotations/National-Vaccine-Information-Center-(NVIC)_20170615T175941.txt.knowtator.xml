@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="National-Vaccine-Information-Center-(NVIC)_20170615T175941.txt">
+    <annotation>
+        <mention id="EHOST_Instance_4133" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="156" end="159" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:43:48 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4133">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4134" />
+        <annotator id="eHOST_2010">Apostolos Syrris</annotator>
+        <span start="318" end="321" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 27 17:43:55 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4134">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4135" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="317" end="320" />
+        <spannedText>not</spannedText>
+        <creationDate>Sat Jan 14 10:53:09 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4135">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4136" />
+        <annotator id="eHOST_2010">Carol</annotator>
+        <span start="252" end="316" />
+        <span start="321" end="416" />
+        <spannedText>the smallpox vaccine and laws requiring smallpox vaccination was ... the “silver bullet” that many believe was solely responsible for saving the world from smallpox</spannedText>
+        <creationDate>Sat Jan 14 10:55:39 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4136">
+        <mentionClass id="Scope">the smallpox vaccine and laws requiring smallpox vaccination was ... the “silver bullet” that many believe was solely responsible for saving the world from smallpox</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4137" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="156" end="159" />
+        <spannedText>not</spannedText>
+        <creationDate>Sun Jan 15 14:15:10 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4137">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4138" />
+        <annotator id="eHOST_2010">kate</annotator>
+        <span start="317" end="320" />
+        <spannedText>not</spannedText>
+        <creationDate>Sun Jan 15 14:15:17 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4138">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4139" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="156" end="159" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 15:44:23 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4139">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4140" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="318" end="321" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 15:46:53 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4140">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4141" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="156" end="159" />
+        <spannedText>not</spannedText>
+        <creationDate>Sat Jan 14 18:07:18 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4141">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4142" />
+        <annotator id="eHOST_2010">Oracle[Sergio Gutierrez]</annotator>
+        <span start="318" end="321" />
+        <spannedText>not</spannedText>
+        <creationDate>Sat Jan 14 18:07:20 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4142">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4143" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="293" end="421" />
+        <spannedText>smallpox vaccination was not the â€œsilver bulletâ€� that many believe was solely responsible for saving the world from smallpox</spannedText>
+        <creationDate>Sat Jan 14 18:46:25 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4143">
+        <mentionClass id="NegCue">smallpox vaccination was not the â€œsilver bulletâ€� that many believe was solely responsible for saving the world from smallpox</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4144" />
+        <annotator id="eHOST_2010">Sergio Gutierrez</annotator>
+        <span start="137" end="159" />
+        <spannedText>drug companies are not</spannedText>
+        <creationDate>Sat Jan 14 18:46:30 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4144">
+        <mentionClass id="NegCue">drug companies are not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4145" />
+        <annotator id="eHOST_2010">Rishvik</annotator>
+        <span start="318" end="321" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Feb 01 18:05:45 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4145">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4146" />
+        <annotator id="eHOST_2010">Rishvik</annotator>
+        <span start="156" end="159" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Feb 01 18:05:55 EET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4146">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+
