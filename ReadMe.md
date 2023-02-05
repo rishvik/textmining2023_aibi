@@ -28,15 +28,20 @@ We have merged our two datasets into one big test data set.
 The following file contains our code:
 
 `Baseline_mode`: consist of code for our baseline model's implementation
+
 `SVM_model` : code for our SVM model's implementation
+
 `CRF_model` : code for our CRF model's implementation
 
 
 ### Other files:
 3 annotation files 
     `Rishvik_annotations`
+    
     `Apostolos_Syrris_annotations`
+    
     `Carol_Rameder_saved``
+    
 each file contains 12 annotation files.
 
 ******
