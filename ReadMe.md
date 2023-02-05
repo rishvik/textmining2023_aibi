@@ -41,4 +41,26 @@ each file contains 12 annotation files.
 
 ******
 
+### Work distribution:
+`Carol`: Corrected writing errors, and organized paragraphs
+and sections. Wrote and implemented all (CRF model note-
+book file from Github) the experiments for the CRF model
+(5.3.2) including data preprocessing (5.1), feature extraction
+and selection (5.2), experimental setup (5.4) and error analy-
+sis (7.2). Wrote the Error Analysis for the Annotation task
+(A2) (3, 3.2, 3.2.1) and Dataset description parts (4).
 
+`Rishvik`: Worked on implementation of SVM model file (code
+plus text), wrote results section of SVM in the result sec-
+tion. Wrote introduction segment, in data section wrote and
+described all the usefull features, worked on tables, inden-
+tation and grammatical errors. Worked and wrote on the
+error analysis part of SVM model as well, and compared the
+results.
+
+`Apostolos`: Worked on the implementation of the Baseline
+model (notebook file from Github) and the data pre-processing.
+Wrote and worked on the abstract , the conclusion, the pre-
+vious work section, the annotation task and the types of
+negation, and the methodology section including the base-
+line model. Lastly compared the results .
